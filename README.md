@@ -6,7 +6,6 @@
 
   📊 &nbsp;**Languages over Last 7 Days**
   </br>
-  </br>
   <img src="https://wakatime.com/share/@maya/cbb861da-9c3a-4977-a6bc-7319eb121b8a.svg" style="width: 450px;"></img>
 
 <details>
