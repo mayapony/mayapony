@@ -1,5 +1,16 @@
-### Hi there 👋
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
+  - 🔭 &nbsp;I am a junior in college. :wink:
+  - 📫 &nbsp;How to reach me: [mayapony.site](https://mayapony.site) or <a rel="me" href="mayapony@foxmail.com">mayapony@foxmail.com</a>
+
+
+  📊 &nbsp;**Languages over Last 7 Days**
+
+![Wwakatime stats](https://wakatime.com/share/@maya/cbb861da-9c3a-4977-a6bc-7319eb121b8a.svg)
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>  
+</details> 
 <!--
 **mayapony/mayapony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
