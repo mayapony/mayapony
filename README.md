@@ -6,7 +6,7 @@
 
   📊 &nbsp;**Languages over Last 7 Days**
   </br>
-  <img src="https://wakatime.com/share/@maya/cbb861da-9c3a-4977-a6bc-7319eb121b8a.svg" style="width: 450px;"></img>
+  <img src="https://wakatime.com/share/@maya/68ae23b9-0a9e-442f-9851-cecd91ee628d.svg" style="width: 450px;"></img>
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
