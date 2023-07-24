@@ -1,6 +1,6 @@
 ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-  - 🔭 &nbsp;I am a junior in college. :wink:
+  - 🔭 &nbsp;I am a student now. :wink:
   - 📫 &nbsp;How to reach me: [mayapony.site](https://mayapony.site) or <a rel="me" href="mayapony@foxmail.com">mayapony@foxmail.com</a>
 
 
