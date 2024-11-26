@@ -10,7 +10,7 @@
   
   📊 &nbsp;**Editor over Last 30 Days**
   </br>
-  <figure><embed src="https://wakatime.com/share/@maya/33b7b42b-a6b0-4355-bccf-c4132e1e65da.svg"></embed></figure>
+  <figure><embed src="https://wakatime.com/share/@maya/431d5ea9-05f1-4058-9524-00fe384cfacd.svg"></embed></figure>
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
