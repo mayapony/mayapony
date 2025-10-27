@@ -5,12 +5,8 @@
 
 
   📊 &nbsp;**Languages over Last 7 Days**
-  </br>
-  <img src="https://wakatime.com/share/@maya/68ae23b9-0a9e-442f-9851-cecd91ee628d.svg" style="width: 450px;"></img>
-  
-  📊 &nbsp;**Editor over Last 30 Days**
-  </br>
-  <figure><embed src="https://wakatime.com/share/@maya/431d5ea9-05f1-4058-9524-00fe384cfacd.svg"></embed></figure>
+
+  <img src="https://wakatime.com/share/@maya/421f2e05-bbcf-4a55-aaa6-781c628b62b7.svg" style="width: 450px;"></img>
 
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
